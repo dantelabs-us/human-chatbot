@@ -30,7 +30,7 @@ Before using this system, ensure you have the following prerequisites:
 1. Clone this repository:
   
 ```bash
-git clone https://gitlab.com/dante-labs/digital-human-chatbot.git
+git clone https://gitlab.com/dante-labs/human-chatbot.git
 ```
 
 2. Navigate to the project directory:
